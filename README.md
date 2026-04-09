@@ -180,4 +180,4 @@ Visit `http://<ec2-public-ip>:3000` and confirm your repository is present.
 - Use `sudo chown -R 1000:1000 ~/data/` after restore to fix Gitea file permissions.
 
 ## AI Tools Used
-Claude (Anthropic) was used to assist with step-by-step guidance, troubleshooting fstab persistence issues, Docker bind mount configuration, and generating this documentation.
+Claude (Anthropic) was used to assist
